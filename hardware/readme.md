@@ -16,7 +16,7 @@ Serial Wire Debug with Tag-Connec <br>
 
 ## Connectivity
 USB-FS with 12Mb/s <br>
-I2C1: &nbsp; (SDA, SCL) with up to 3.4Mb/s <br>
+I2C1: &nbsp; (SDA, SCL) <br>
 UART1: &nbsp; (Tx, Rx) <br>
 SPI1: &nbsp; (NSS, SCK, MISO, MOSI) <br>
 RF: &nbsp; 2.4GHz ISM-Band, BLE 5.4, IEEE 802.15.4 (Zigbee 3.0, Thread 1.3) <br>

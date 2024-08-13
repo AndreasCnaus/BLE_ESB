@@ -12,9 +12,16 @@ MCU: &nbsp; STM32WB55CEU6 <br>
 SMPS-Support: &nbsp;  for low power mode <br>
 BOOT0/User-Button: &nbsp; boots from USB when pushed during power up <br>
 LED's:  &nbsp; Power-Led (orange), User-Led (blue) <br>
+Serial Wire Debugger with Tag-Connec <br>
+
 ## Connectivity
 USB-FS with 12Mb/s <br>
 I2C1: &nbsp; (SDA, SCL) with up to 3.4Mb/s <br>
 UART1: &nbsp; (Tx, Rx) with up to 5Mb/s<br>
 SPI1: &nbsp; (NSS, SCK, MISO, MOSI) with up to 10Mb/s<br>
 RF: &nbsp; 2.4GHz ISM-Band, BLE 5.4, IEEE 802.15.4 (Zigbee 3.0, Thread 1.3) <br>
+
+# Links
+This board was designed according to the following tutorial with a few changes: &nbsp; https://youtu.be/nkHFoxe0mrU?si=10UZT0h6SDpFT777 <br>
+STM32WB55-Datasheet: &nbsp; https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf <br>
+

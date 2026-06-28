@@ -23,6 +23,5 @@ SPI1: &nbsp; (NSS, SCK, MISO, MOSI) <br>
 RF: &nbsp; 2.4GHz ISM-Band, BLE 5.4, IEEE 802.15.4 (Zigbee 3.0, Thread 1.3) <br>
 
 # Links
-This board was designed according to the following tutorial with a few changes: &nbsp; https://youtu.be/nkHFoxe0mrU?si=10UZT0h6SDpFT777 <br>
 STM32WB55-Datasheet: &nbsp; https://www.st.com/resource/en/datasheet/stm32wb55cc.pdf <br>
 
